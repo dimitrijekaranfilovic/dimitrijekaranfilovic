@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dimitrijekaranfilovic/dimitrijekaranfilovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <span>
+    <img width="36%" height="300%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrijekaranfilovic&langs_count=10&layout=compact&hide=xslt&hide_border=true&count_private=true&theme=tokyonight&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  </span>
+  <span>
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=dimitrijekaranfilovic&include_all_commits=true&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  </span>
+</div>
+  
